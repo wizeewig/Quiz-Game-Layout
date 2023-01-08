@@ -2,7 +2,7 @@
 
 # Quiz game app. Language used -> Kotlin
 
-# The app also uses Firebase realtime database and Firebase cloud messaging services.
+# The app also uses *Firebase realtime database* and *Firebase cloud messaging services* .
 
 # Home Page
 
@@ -29,3 +29,11 @@
 # Push Up notifications are send using FCM (Firebase Cloud Messaging)
 
 ![quiz6](https://user-images.githubusercontent.com/89184573/211210780-4c4474b9-5214-47aa-9caa-40b907e062f7.jpg)
+
+# Firebase storage, realtime database and cloud messaging
+
+<img width="953" alt="quiz7" src="https://user-images.githubusercontent.com/89184573/211212475-8937ca5b-bfc1-40fe-a159-a68d08be8a92.png">
+
+<img width="953" alt="quiz6" src="https://user-images.githubusercontent.com/89184573/211212480-aea84548-3a6f-46ca-8b04-359605153fda.png">
+
+<img width="945" alt="quiz8" src="https://user-images.githubusercontent.com/89184573/211212489-81af47a8-1deb-46c3-8253-de39db5f2a21.png">
