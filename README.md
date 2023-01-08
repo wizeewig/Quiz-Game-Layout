@@ -8,7 +8,7 @@
 
 # Different Levels
 
-#All the level ques images and answers are stored in Firebase realtime database. 
+# All the level ques images and answers are stored in Firebase realtime database. 
 
 ![quiz2](https://user-images.githubusercontent.com/89184573/211210371-dea426e3-358d-4954-af7d-db230fd5da7e.png)
 
@@ -22,6 +22,6 @@
 
 # Notifiations
 
-#Push Up notifications are send using FCM (Firebase Cloud Messaging)
+# Push Up notifications are send using FCM (Firebase Cloud Messaging)
 
 ![quiz6](https://user-images.githubusercontent.com/89184573/211210780-4c4474b9-5214-47aa-9caa-40b907e062f7.jpg)
