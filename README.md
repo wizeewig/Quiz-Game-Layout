@@ -2,6 +2,8 @@
 
 # Quiz game app. Language used -> Kotlin
 
+# The app also uses Firebase realtime database and Firebase cloud messaging services.
+
 # Home Page
 
 ![quiz1](https://user-images.githubusercontent.com/89184573/211210342-90f116bd-17d0-4750-927f-7dbef44b1b44.png)
