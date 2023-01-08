@@ -10,6 +10,8 @@
 
 # All the level ques images and answers are stored in Firebase realtime database. 
 
+# The app also contains toast messages on passing different levels
+
 ![quiz2](https://user-images.githubusercontent.com/89184573/211210371-dea426e3-358d-4954-af7d-db230fd5da7e.png)
 
 ![quiz3](https://user-images.githubusercontent.com/89184573/211210373-1d0b62ff-277e-4c22-b83f-dedbdbe14659.png)
