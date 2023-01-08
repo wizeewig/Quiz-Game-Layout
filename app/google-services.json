@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543575572612",
+    "project_id": "level-tesla",
+    "storage_bucket": "level-tesla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543575572612:android:601889a606db57b5e482d1",
+        "android_client_info": {
+          "package_name": "com.example.a3leveltesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543575572612-u6jfj0kq40o7vicf71djjecptbo398dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sr_cRXcB2QTwNs17XLFHphgbismQv90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543575572612-u6jfj0kq40o7vicf71djjecptbo398dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
